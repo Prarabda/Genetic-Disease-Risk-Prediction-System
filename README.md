@@ -49,9 +49,6 @@ The project combines data engineering and data science concepts into a single wo
 
 ---
 
-
----
-
 ## 🔄 Project Workflow
 
 ```
